@@ -1,0 +1,14 @@
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\bin\Debug\netcoreapp3.1\HomeWorkDelegate.exe
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\bin\Debug\netcoreapp3.1\HomeWorkDelegate.deps.json
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\bin\Debug\netcoreapp3.1\HomeWorkDelegate.runtimeconfig.json
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\bin\Debug\netcoreapp3.1\HomeWorkDelegate.runtimeconfig.dev.json
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\bin\Debug\netcoreapp3.1\HomeWorkDelegate.dll
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\bin\Debug\netcoreapp3.1\HomeWorkDelegate.pdb
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.csproj.AssemblyReference.cache
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.AssemblyInfoInputs.cache
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.AssemblyInfo.cs
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.csproj.CoreCompileInputs.cache
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.dll
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.pdb
+C:\Users\vusal\source\repos\HomeWorkDelegate\HomeWorkDelegate\obj\Debug\netcoreapp3.1\HomeWorkDelegate.genruntimeconfig.cache
